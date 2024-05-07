@@ -30,5 +30,5 @@ themselves more freely and engage with the broader community on a level playing 
 
 ## Train Custom Sign Language
 
-Here is the [documentation](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) on training a custom dataset.
+Here is the [documentation](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) on training custom dataset.
 
