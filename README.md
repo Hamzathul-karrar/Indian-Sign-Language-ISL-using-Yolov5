@@ -13,13 +13,13 @@ themselves more freely and engage with the broader community on a level playing 
 
 ## Installation 
 
-1. Clone the repository to C drive ("C:\RealTimeSignLang\yolov5").
+1. Clone the repository.
 2. Pycharm (Recommended Code Editor).
 3. Install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8  (Python 3.10 Recommended).
 
 ## Setup
 
-1. cd yolov5
+1. cd to the repository.
 2. pip install -r requirements.txt
 
 ## Usage
