@@ -30,9 +30,11 @@ themselves more freely and engage with the broader community on a level playing 
 
 ## Images
 
-![A (ISL)](images/Indian Signs (ISL)/A.jpg?raw=true "A in ISL")
-![ಅ (KSL)](https://github.com/Hamzathul-karrar/Indian-Sign-Language-ISL-using-Yolov5/blob/main/images/Kannada%20Signs%20(KSL)/K1__MG20240403144719.jpg?raw=true "ಅ in KSL")
+Reference images for ISL and KSL are in images folder.
+In KSL, Image K! is ಅ, ... K15 is ಅಃ.
 
+![A (ISL)](https://github.com/Hamzathul-karrar/Indian-Sign-Language-ISL-using-Yolov5/blob/main/images/Indian%20Signs%20(ISL)/A.jpg?raw=true "A in ISL")
+![ಅ (KSL)](https://github.com/Hamzathul-karrar/Indian-Sign-Language-ISL-using-Yolov5/blob/main/images/Kannada%20Signs%20(KSL)/K1__MG20240403144719.jpg?raw=true "ಅ in KSL")
 
 ## Train Custom Sign Language
 
