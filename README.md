@@ -28,6 +28,12 @@ themselves more freely and engage with the broader community on a level playing 
 2. Run detect_isl_with_speech for Indian Sign Language with speech output.
 3. Run detect_kannada for Kannada Sign Language.
 
+## Images
+
+![A (ISL)](images/Indian Signs (ISL)/A.jpg?raw=true "A in ISL")
+![ಅ (KSL)](images/Kannada Signs (KSL)/K1__MG20240403144719.jpg?raw=true "ಅ in KSL")
+
+
 ## Train Custom Sign Language
 
 Here is the [documentation](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) on training custom dataset.
