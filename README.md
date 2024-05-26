@@ -31,7 +31,7 @@ themselves more freely and engage with the broader community on a level playing 
 ## Images
 
 ![A (ISL)](images/Indian Signs (ISL)/A.jpg?raw=true "A in ISL")
-![ಅ (KSL)](images/Kannada Signs (KSL)/K1__MG20240403144719.jpg?raw=true "ಅ in KSL")
+![ಅ (KSL)](https://github.com/Hamzathul-karrar/Indian-Sign-Language-ISL-using-Yolov5/blob/main/images/Kannada%20Signs%20(KSL)/K1__MG20240403144719.jpg?raw=true "ಅ in KSL")
 
 
 ## Train Custom Sign Language
