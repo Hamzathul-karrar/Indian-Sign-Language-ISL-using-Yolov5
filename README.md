@@ -33,10 +33,10 @@ themselves more freely and engage with the broader community on a level playing 
 Reference images for ISL and KSL are in images folder.</br>
 In KSL, Image K1 is ಅ, ... K15 is ಅಃ.</br>
 
-A in ISL:
+A in ISL: </br>
 ![A (ISL)](https://github.com/Hamzathul-karrar/Indian-Sign-Language-ISL-using-Yolov5/blob/main/images/Indian%20Signs%20(ISL)/A.jpg?raw=true "A in ISL")
 </br>
-ಅ in KSL:
+ಅ in KSL: </br>
 ![ಅ (KSL)](https://github.com/Hamzathul-karrar/Indian-Sign-Language-ISL-using-Yolov5/blob/main/images/Kannada%20Signs%20(KSL)/K1__MG20240403144719.jpg?raw=true "ಅ in KSL")
 
 ## Train Custom Sign Language
