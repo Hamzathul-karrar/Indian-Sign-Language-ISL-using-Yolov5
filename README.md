@@ -44,7 +44,8 @@ A in ISL: </br>
 Here is the [documentation](https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/) on training custom dataset.
 
 ## Contributors
-[Mohammad Suhaib](https://github.com/suhaib775)
-[Kavya Krishna chinchankar](https://github.com/Kavya-chinchankar)
-[Mohammed Twaha](https://github.com/MohammedTwaha)
+
+* [Mohammad Suhaib](https://github.com/suhaib775)
+* [Kavya Krishna chinchankar](https://github.com/Kavya-chinchankar)
+* [Mohammed Twaha](https://github.com/MohammedTwaha)
 
